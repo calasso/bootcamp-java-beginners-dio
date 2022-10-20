@@ -80,7 +80,7 @@ Comandos GIT:
   $ git restore –staged NOME-DO-ARQUIVO.TXT (serve para remover algo que foi usado no $git add)
   $ git remote add origin https://github.com/usuario/repositorio.git (adicionando a “origin” que é um apelido apra a URL)
   $ git remote -v (lista de repositórios remotos)
-  $ git push origin master (“push” envia os commits para a “master”)
+  $ git push origin main (“push” envia os commits para a “master”)
 
  -*- ***** ------------ * ------------ ***** -*-  
 
@@ -92,7 +92,7 @@ Comandos GIT:
   git commit -m "#feature/NOME - Mensagem que identifique o commit"
   *** git commit --amend --reset-author (Caso precise alterar o usuário)
   git status 
-  git push origin feature/NOME ou master
+  git push origin feature/NOME ou main
 
 REMOVER UNTRACKED FILES
   git clean -df [Remove todos untracked files]

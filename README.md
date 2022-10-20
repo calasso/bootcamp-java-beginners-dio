@@ -5,5 +5,5 @@ Repositório criado para os projetos do Bootcamp - Potência Tech powered by iFo
 
 
 ## Atividades e/ou projetos
-- [Git_GitHub - Primeiro repositório](https://github.com/calasso/bootcamp-java-beginners-dio/Git_GitHub-Primeiro_repositorio/)
+- [Git_GitHub - Primeiro repositório](https://github.com/calasso/bootcamp-java-beginners-dio/tree/main/Git_GitHub-Primeiro_repositorio)
   + Anotações e comandos
