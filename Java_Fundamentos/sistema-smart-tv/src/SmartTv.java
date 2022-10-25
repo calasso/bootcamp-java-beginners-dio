@@ -1,4 +1,5 @@
 public class SmartTv {
+
   boolean tvOn = false;
   int channel = 1;
   int volume = 25;
@@ -37,4 +38,3 @@ public class SmartTv {
   }
 
 }
-  
