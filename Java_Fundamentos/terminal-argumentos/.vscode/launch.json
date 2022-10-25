@@ -1,0 +1,40 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch AboutMeScanner",
+      "request": "launch",
+      "mainClass": "AboutMeScanner",
+      "projectName": "terminal-argumentos_6503133c"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch MinhaClasse",
+      "request": "launch",
+      "mainClass": "MinhaClasse",
+      "projectName": "terminal-argumentos_6503133c"
+    },
+    {
+      "name": "Launch AboutMe",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "AboutMe",
+      "args": [
+        "RAPHAEL",
+        "SILVA",
+        "18",
+        "1.73"
+      ]
+    }
+  ]
+}
